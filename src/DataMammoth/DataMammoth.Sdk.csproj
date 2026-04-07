@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>DataMammoth.Sdk</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>DataMammoth</Authors>
+    <Company>DataMammoth</Company>
+    <Description>Official C# SDK for the DataMammoth API v2</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/datamammoth/dm-csharp</RepositoryUrl>
+    <PackageTags>datamammoth hosting api sdk vps cloud</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="8.0.0" />
+  </ItemGroup>
+</Project>
