@@ -1,6 +1,6 @@
 # DataMammoth C# / .NET SDK
 
-Official C# and .NET client for the [DataMammoth API v2](https://data-mammoth.com/api-docs).
+Official C# and .NET client for the [DataMammoth API v2](https://data-mammoth.com/api-docs/reference).
 
 > **Status**: Under development. Not yet published to NuGet.
 
